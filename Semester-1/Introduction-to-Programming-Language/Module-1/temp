@@ -1,0 +1,15 @@
+
+
+// "C default code": {
+//     "prefix" : "ccode",
+//                "body": [
+//                     "#include <stdio.h>",
+//                     "",
+//                     "int main() {",
+//                     "   //code",
+//                     "   ",
+//                     "   return 0;",
+//                     "}"
+//                ],
+//                 "description":"Insert a basic C code template"
+// }
